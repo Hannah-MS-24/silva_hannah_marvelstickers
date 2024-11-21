@@ -13,4 +13,19 @@ body{
     color: white;
     background-color: #d4d9b9;
     background-image: url(../images/characters_art_mas_mob_01.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+header {
+    background-color: red;
+    position: sticky;
+    top: 0px;
+    display: flex;
+}
+
+#main-logo {
+    width: 200px;
+    padding: 10px 0px 10px 10px;
 }
