@@ -1,0 +1,16 @@
+.hidden {
+    display: none;
+}
+
+html, body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #d4d9b9;
+    background-image: url(../images/characters_art_mas_mob_01.jpeg);
+}
